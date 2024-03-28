@@ -1,6 +1,6 @@
 # Last-Row-Sim
 Downloadable .exe of my warden p4 last row sim found here:
-https://gx.games/games/6f00u8/last-row-sim/tracks/352414a8-e369-4094-a7fb-e1e4b12c5f03
+- https://gx.games/games/6f00u8/last-row-sim/tracks/352414a8-e369-4094-a7fb-e1e4b12c5f03
 
 A sim of OSRS ToA P4 wardens, based on https://oldschool.runescape.wiki/w/Tombs_of_Amascut/Strategies#The_Wardens
 
