@@ -6,6 +6,7 @@ To download and install, just click the file and the donwnload button, and go th
 
 ![image](https://github.com/burntfish44/Last-Row-Sim/assets/14120647/64715da0-bd3b-4f66-bed3-d9c060e026aa)
 
+## Info
 
 A sim of OSRS ToA P4 wardens, based on https://oldschool.runescape.wiki/w/Tombs_of_Amascut/Strategies#The_Wardens
 
