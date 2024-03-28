@@ -8,7 +8,7 @@ To download and install, just click the file and the donwnload button, and go th
 
 ## Info
 
-A sim of OSRS ToA P4 wardens, based on https://oldschool.runescape.wiki/w/Tombs_of_Amascut/Strategies#The_Wardens
+A sim of OSRS ToA P4 wardens, made in GameMaker Studio 2 based on https://oldschool.runescape.wiki/w/Tombs_of_Amascut/Strategies#The_Wardens
 
 Options currently include:
   - boss attack toggles and endless mode
