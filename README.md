@@ -12,6 +12,7 @@ Options currently include:
 Features not included in the initial release, since I wanted to get early feedback, but would like to include at some point:
   - zebak path level for faster projectiles
   - simulated latency
+  - more tile marking options (destination tile, hovered tile)
   - prayer point management
   - keris healing option (equip & spec bubble)
   - more game modes (extra hard mode, low prayer, etc)
