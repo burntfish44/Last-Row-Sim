@@ -31,3 +31,9 @@ Inspired by these sims:
   - https://gx.games/games/vrgzcn/sol-simulation-fight-2-0/
 
 And a big thank you to PuzzleDrop for the initial help and sol sim files to get me started on making this
+
+## Screenshots
+
+![vlc_KXXmGXWqAy](https://github.com/burntfish44/Last-Row-Sim/assets/14120647/54171fc9-d321-47a6-8c8f-c5528e745f99)
+![Runner_ktFARjkrxt](https://github.com/burntfish44/Last-Row-Sim/assets/14120647/084be546-6cfc-4961-be3e-653735fe8042)
+![Runner_SPEeJe77yJ](https://github.com/burntfish44/Last-Row-Sim/assets/14120647/dbab5352-1aba-4a1c-8c3d-e7a395d6e4b8)
