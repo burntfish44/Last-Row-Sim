@@ -1,7 +1,7 @@
 # Last-Row-Sim
 Downloadable .exe of my warden p4 last row sim found here:
 - https://gx.games/games/6f00u8/last-row-sim
-- 
+
 To download and install, just click the file and the donwnload button, and go through the normall install process:
 
 ![image](https://github.com/burntfish44/Last-Row-Sim/assets/14120647/64715da0-bd3b-4f66-bed3-d9c060e026aa)
