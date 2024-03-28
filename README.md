@@ -6,9 +6,7 @@ A sim of OSRS ToA P4 wardens, based on https://oldschool.runescape.wiki/w/Tombs_
 
 Options currently include:
   - boss attack toggles and endless mode
-  
   - player health/weapon and a couple UI toggles
-  
   - sound options
 
 Features not included in the initial release, since I wanted to get early feedback, but would like to include at some point:
